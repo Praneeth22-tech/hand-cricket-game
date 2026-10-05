@@ -24,6 +24,7 @@ Make sure Python is installed on your computer.
 
 ```bash
 python handcricket.py
+```
 
 
 ##  Features
